@@ -1,0 +1,35 @@
+When we create react project we get lot of files and folders lets see the purpose of each file and folder
+
+1. Node Modules 
+// we get node Modules after writing npm install in terminal
+// Purpose : Contains all the dependencies(external libraries) your project needs, which are installed via npm or yarn
+// Do not touch this folder......anyday
+
+
+2. Public 
+// This folder contains all the static files like audio, video, images, favicon...
+
+3. SRC 
+//this is place where 99% of the time we spend time while development, this folder will have components, Css files, JS logic, pages
+
+4. .gitignore - related git and github..
+// This files tell which files and folders need to ignore when committing code.
+
+5. eslint.config.JS
+// configuration for ESlint(tool to check code quality and catch error...)
+
+6. index.html
+//The single HTML files that serves as the entry point of your app..
+
+7. package.json
+// the heart of your project, information related to the react project..
+
+8. package.lock.json
+// ensure consistency across all the machines using your project..
+
+9. README.Md (markdown file)
+//especially when you are sharing code with others or open sourcing.
+zomato - files and folders...
+
+10. vite.config.js
+// vite's configuration file
